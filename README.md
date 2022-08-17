@@ -1,8 +1,6 @@
 <h2 align="center">
-    Hello there! I am <strong>Zero</strong> 👋🏻
+    Luxy 🖤
 </h2>
-<p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future, I mainly work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong>
 <br>
 <br>
 <br>
